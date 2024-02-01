@@ -15,7 +15,10 @@
     {
       "id": "FgMGylD",
       "email": "iamvine@mail.ru",
-      "name": "Dmitry",
+      "name": "Dmitryss",
+      "secondName": "Sakulin",
+      "gender": "Female",
+      "dateOfBirth": "06.04.2002",
       "imageUrl": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
     }
   ],
@@ -26,28 +29,36 @@
         {
           "color": "#D62718",
           "text": "Security System Check"
-        },{
+        },
+        {
           "color": "#429026",
           "text": "Informational System Check"
-        },{
+        },
+        {
           "color": "#D62718",
           "text": "Network Connectivity Audit"
-        },{
+        },
+        {
           "color": "#429026",
           "text": "Data Integrity Verification"
-        },{
+        },
+        {
           "color": "#429026",
           "text": "Performance Analytics Assessment"
-        },{
+        },
+        {
           "color": "#B7840E",
           "text": "User Authentication Review"
-        },{
+        },
+        {
           "color": "#D62718",
           "text": "System Health Diagnostics"
-        },{
+        },
+        {
           "color": "#D62718",
           "text": "Infrastructure Security Audi"
-        },{
+        },
+        {
           "color": "#B7840E",
           "text": "Compliance Status Evaluation"
         }

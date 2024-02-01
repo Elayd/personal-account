@@ -3,6 +3,7 @@ import AuthPageAsync from '../pages/AuthPage/AuthPageAsync.tsx';
 import PrivateRoute from './PrivateRouter.tsx';
 import Layout from '../Widgets/Layout/Layout.tsx';
 import StatusesPageAsync from '../pages/StatusesPage/StatusesPage.async.tsx';
+import ProfilePageAsync from '../pages/ProfilePage/ProfilePage.async.tsx';
 
 const AppRoutes = () => (
   <Routes>
@@ -20,7 +21,7 @@ const AppRoutes = () => (
       element={
         <PrivateRoute>
           <Layout>
-            <div>Profile Page</div>
+            <ProfilePageAsync />
           </Layout>
         </PrivateRoute>
       }
@@ -40,7 +41,7 @@ const AppRoutes = () => (
       element={
         <PrivateRoute>
           <Layout>
-            <div>Profile Page</div>
+            <div>Applications</div>
           </Layout>
         </PrivateRoute>
       }

@@ -17,7 +17,7 @@ const useStatusBadgesQuery = (): UseQueryResult<IStatusBadge> => {
       }),
     {
       onError: (error) => {
-        console.log('Login failed:', error);
+        console.log('Failed to fetch statuses:', error);
       },
       cacheTime: 60000
     }

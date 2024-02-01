@@ -26,7 +26,7 @@ const Navigation = () => {
         current: item.href === window.location.pathname
       }))
     );
-  }, []);
+  }, [window.location.pathname]);
 
   const { isLoggedIn } = useUserStore();
   return (

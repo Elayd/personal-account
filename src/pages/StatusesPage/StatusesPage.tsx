@@ -10,12 +10,16 @@ const StatusesPage = () => {
   }
 
   return (
-    <div className="container mx-auto p-4 flex flex-col items-center">
-      <h1 className="text-3xl font-bold mb-4">Application Statuses</h1>
-      {data?.statuses.map((status, index) => {
-        return <StatusBadge key={index} color={status.color} text={status.text} />;
-      })}
-    </div>
+    <>
+      <div className="sm:mx-auto sm:w-full sm:max-w-sm">
+        <h2 className="mt-10 text-center text-2xl font-bold leading-9 tracking-tight text-gray-900">Application Statuses</h2>
+      </div>
+      <div className="container mx-auto p-4 flex flex-col items-center">
+        {data?.statuses.map((status, index) => {
+          return <StatusBadge key={index} color={status.color} text={status.text} />;
+        })}
+      </div>
+    </>
   );
 };
 
