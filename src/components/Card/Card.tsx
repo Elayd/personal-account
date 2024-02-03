@@ -1,9 +1,9 @@
 import StatusBadge from '../StatusBadge/StatusBadge.tsx';
 import { ICardProps } from '../../types/types.ts';
 import { useNavigate } from 'react-router-dom';
-import { useState } from 'react';
+import { memo, useState } from 'react';
 
-const Card = (props: ICardProps) => {
+const Card = memo((props: ICardProps) => {
   const { finalStatusColor, finalStatusText, price, applicationID } = props;
   const [isHovered, setIsHovered] = useState(false);
 
@@ -33,6 +33,6 @@ const Card = (props: ICardProps) => {
       <p className="mt-4 text-xs leading-5 text-gray-600">If you faced with some problems, please call to support service</p>
     </div>
   );
-};
+});
 
 export default Card;
