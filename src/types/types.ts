@@ -12,3 +12,10 @@ interface RadioButtonGroupProps {
 }
 
 export type { RadioOption, RadioButtonGroupProps };
+
+export interface ICardProps {
+  applicationID: number;
+  finalStatusColor: string;
+  finalStatusText: string;
+  price: string;
+}

@@ -4,6 +4,8 @@ import PrivateRoute from './PrivateRouter.tsx';
 import Layout from '../Widgets/Layout/Layout.tsx';
 import StatusesPageAsync from '../pages/StatusesPage/StatusesPage.async.tsx';
 import ProfilePageAsync from '../pages/ProfilePage/ProfilePage.async.tsx';
+import NotFoundPageAsync from '../pages/NotFoundPage/NotFoundPage.async.tsx';
+import ApplicationsPageAsync from '../pages/ApplicationsPage/ApplicationsPage.async.tsx';
 
 const AppRoutes = () => (
   <Routes>
@@ -41,12 +43,12 @@ const AppRoutes = () => (
       element={
         <PrivateRoute>
           <Layout>
-            <div>Applications</div>
+            <ApplicationsPageAsync />
           </Layout>
         </PrivateRoute>
       }
     />
-    <Route path="*" element={<div>NotFound</div>} />
+    <Route path="*" element={<NotFoundPageAsync />} />
   </Routes>
 );
 

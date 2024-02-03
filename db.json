@@ -15,11 +15,258 @@
     {
       "id": "FgMGylD",
       "email": "iamvine@mail.ru",
-      "name": "Dmitryss",
+      "name": "Dmitry",
       "secondName": "Sakulin",
-      "gender": "Female",
+      "gender": "Male",
       "dateOfBirth": "06.04.2002",
       "imageUrl": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
+    }
+  ],
+  "applications": [
+    {
+      "price": "531",
+      "finalStatusText": "On the way",
+      "finalStatusColor": "#B7840E",
+      "applicationID": 35,
+      "userId": "FgMGylD"
+    },
+    {
+      "price": "61",
+      "finalStatusText": "On the way",
+      "finalStatusColor": "#B7840E",
+      "applicationID": 34,
+      "userId": "FgMGylD"
+    },
+    {
+      "price": "541",
+      "finalStatusText": "Delivered",
+      "finalStatusColor": "#429026",
+      "applicationID": 33,
+      "userId": "FgMGylD"
+    },
+    {
+      "price": "542",
+      "finalStatusText": "Delivered",
+      "finalStatusColor": "#429026",
+      "applicationID": 32,
+      "userId": "FgMGylD"
+    },
+    {
+      "price": "531",
+      "finalStatusText": "Delivered",
+      "finalStatusColor": "#429026",
+      "applicationID": 31,
+      "userId": "FgMGylD"
+    },
+    {
+      "price": "2323",
+      "finalStatusText": "On the way",
+      "finalStatusColor": "#B7840E",
+      "applicationID": 30,
+      "userId": "FgMGylD"
+    },
+    {
+      "price": "412",
+      "finalStatusText": "On the way",
+      "finalStatusColor": "#B7840E",
+      "applicationID": 29,
+      "userId": "FgMGylD"
+    },
+    {
+      "price": "545",
+      "finalStatusText": "Canceled",
+      "finalStatusColor": "#D62718",
+      "applicationID": 28,
+      "userId": "FgMGylD"
+    },
+    {
+      "price": "126",
+      "finalStatusText": "Canceled",
+      "finalStatusColor": "#D62718",
+      "applicationID": 27,
+      "userId": "FgMGylD"
+    },
+    {
+      "price": "532",
+      "finalStatusText": "Canceled",
+      "finalStatusColor": "#D62718",
+      "applicationID": 26,
+      "userId": "FgMGylD"
+    },
+    {
+      "price": "613",
+      "finalStatusText": "Delivered",
+      "finalStatusColor": "#429026",
+      "applicationID": 25,
+      "userId": "FgMGylD"
+    },
+    {
+      "price": "462",
+      "finalStatusText": "Delivered",
+      "finalStatusColor": "#429026",
+      "applicationID": 24,
+      "userId": "FgMGylD"
+    },
+    {
+      "price": "124",
+      "finalStatusText": "Delivered",
+      "finalStatusColor": "#429026",
+      "applicationID": 23,
+      "userId": "FgMGylD"
+    },
+    {
+      "price": "653",
+      "finalStatusText": "Delivered",
+      "finalStatusColor": "#429026",
+      "applicationID": 22,
+      "userId": "FgMGylD"
+    },
+    {
+      "price": "421",
+      "finalStatusText": "Delivered",
+      "finalStatusColor": "#429026",
+      "applicationID": 21,
+      "userId": "FgMGylD"
+    },
+    {
+      "price": "232",
+      "finalStatusText": "On the way",
+      "finalStatusColor": "#B7840E",
+      "applicationID": 20,
+      "userId": "FgMGylD"
+    },
+    {
+      "price": "3123",
+      "finalStatusText": "On the way",
+      "finalStatusColor": "#B7840E",
+      "applicationID": 19,
+      "userId": "FgMGylD"
+    },
+    {
+      "price": "331",
+      "finalStatusText": "On the way",
+      "finalStatusColor": "#B7840E",
+      "applicationID": 18,
+      "userId": "FgMGylD"
+    },
+    {
+      "price": "112",
+      "finalStatusText": "On the way",
+      "finalStatusColor": "#B7840E",
+      "applicationID": 17,
+      "userId": "FgMGylD"
+    },
+    {
+      "price": "744",
+      "finalStatusText": "On the way",
+      "finalStatusColor": "#B7840E",
+      "applicationID": 16,
+      "userId": "FgMGylD"
+    },
+    {
+      "price": "231",
+      "finalStatusText": "Delivered",
+      "finalStatusColor": "#429026",
+      "applicationID": 15,
+      "userId": "FgMGylD"
+    },
+    {
+      "price": "14",
+      "finalStatusText": "Delivered",
+      "finalStatusColor": "#429026",
+      "applicationID": 14,
+      "userId": "FgMGylD"
+    },
+    {
+      "price": "1923",
+      "finalStatusText": "Canceled",
+      "finalStatusColor": "#D62718",
+      "applicationID": 13,
+      "userId": "FgMGylD"
+    },
+    {
+      "price": "106",
+      "finalStatusText": "On the way",
+      "finalStatusColor": "#B7840E",
+      "applicationID": 12,
+      "userId": "FgMGylD"
+    },
+    {
+      "price": "191",
+      "finalStatusText": "Canceled",
+      "finalStatusColor": "#D62718",
+      "applicationID": 11,
+      "userId": "FgMGylD"
+    },
+    {
+      "price": "104",
+      "finalStatusText": "Canceled",
+      "finalStatusColor": "#D62718",
+      "applicationID": 10,
+      "userId": "FgMGylD"
+    },
+    {
+      "price": "103",
+      "finalStatusText": "Delivered",
+      "finalStatusColor": "#429026",
+      "applicationID": 9,
+      "userId": "FgMGylD"
+    },
+    {
+      "price": "104",
+      "finalStatusText": "Canceled",
+      "finalStatusColor": "#D62718",
+      "applicationID": 8,
+      "userId": "FgMGylD"
+    },
+    {
+      "price": "104",
+      "finalStatusText": "Canceled",
+      "finalStatusColor": "#D62718",
+      "applicationID": 7,
+      "userId": "FgMGylD"
+    },
+    {
+      "price": "121",
+      "finalStatusText": "Canceled",
+      "finalStatusColor": "#D62718",
+      "applicationID": 6,
+      "userId": "FgMGylD"
+    },
+    {
+      "price": "143",
+      "finalStatusText": "Delivered",
+      "finalStatusColor": "#429026",
+      "applicationID": 5,
+      "userId": "FgMGylD"
+    },
+    {
+      "price": "32",
+      "finalStatusText": "Delivered",
+      "finalStatusColor": "#429026",
+      "applicationID": 4,
+      "userId": "FgMGylD"
+    },
+    {
+      "price": "49",
+      "finalStatusText": "Delivered",
+      "finalStatusColor": "#429026",
+      "applicationID": 3,
+      "userId": "FgMGylD"
+    },
+    {
+      "price": "54",
+      "finalStatusText": "Delivered",
+      "finalStatusColor": "#429026",
+      "applicationID": 2,
+      "userId": "FgMGylD"
+    },
+    {
+      "price": "231",
+      "finalStatusText": "Delivered",
+      "finalStatusColor": "#429026",
+      "applicationID": 1,
+      "userId": "FgMGylD"
     }
   ],
   "statuses": [

@@ -3,4 +3,5 @@ export interface PersonData {
   secondName: string;
   gender: string;
   dateOfBirth: string;
+  imageUrl?: string;
 }
