@@ -1,6 +1,7 @@
 import { RadioButtonGroupProps } from '../../types/types.ts';
+import { memo } from 'react';
 
-const RadioButtonGroup = ({ options, selectedOption, onChange, disabled, label }: RadioButtonGroupProps) => {
+const RadioButtonGroup = memo(({ options, selectedOption, onChange, disabled, label }: RadioButtonGroupProps) => {
   return (
     <>
       {label && <label className="block text-sm font-medium leading-6 text-gray-900">{label}</label>}
@@ -21,6 +22,6 @@ const RadioButtonGroup = ({ options, selectedOption, onChange, disabled, label }
       ))}
     </>
   );
-};
+});
 
 export default RadioButtonGroup;

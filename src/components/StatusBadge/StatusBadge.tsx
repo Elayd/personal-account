@@ -1,9 +1,10 @@
 import './StatusBadge.css';
+import { memo } from 'react';
 interface IStatusBadge {
   color: string;
   text: string;
 }
-const StatusBadge = ({ color, text }: IStatusBadge) => {
+const StatusBadge = memo(({ color, text }: IStatusBadge) => {
   return (
     <div
       className="status-badge"
@@ -15,6 +16,6 @@ const StatusBadge = ({ color, text }: IStatusBadge) => {
       {text}
     </div>
   );
-};
+});
 
 export default StatusBadge;

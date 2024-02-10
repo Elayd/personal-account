@@ -1,11 +1,10 @@
-import { useCallback, useEffect, useState } from 'react';
+import { memo, useCallback, useEffect, useState } from 'react';
 import NavigationBar from '../NavigationBar/NavigationBar.tsx';
 import useUserStore from '../../pages/AuthPage/store/user.ts';
 
-const Navigation = () => {
+const Navigation = memo(() => {
   const [navigation, setNavigation] = useState([
     { name: 'About', href: '/', current: false },
-    { name: 'Statuses', href: '/statuses', current: true },
     { name: 'Applications', href: '/applications', current: false }
   ]);
 
@@ -34,6 +33,6 @@ const Navigation = () => {
       <NavigationBar navigation={isLoggedIn ? navigation : NotLoggedNavPanel} handleNavigationClick={handleNavigationClick} />
     </>
   );
-};
+});
 
 export default Navigation;

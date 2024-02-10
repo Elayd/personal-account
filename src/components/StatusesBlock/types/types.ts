@@ -3,6 +3,6 @@ export type TStatusesType = {
   text: string;
 };
 
-export interface IStatusBadge {
+export type TStatusBadge = {
   statuses: TStatusesType[];
-}
+};

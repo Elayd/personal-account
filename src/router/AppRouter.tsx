@@ -2,10 +2,11 @@ import { Route, Routes } from 'react-router-dom';
 import AuthPageAsync from '../pages/AuthPage/AuthPageAsync.tsx';
 import PrivateRoute from './PrivateRouter.tsx';
 import Layout from '../Widgets/Layout/Layout.tsx';
-import StatusesPageAsync from '../pages/StatusesPage/StatusesPage.async.tsx';
 import ProfilePageAsync from '../pages/ProfilePage/ProfilePage.async.tsx';
 import NotFoundPageAsync from '../pages/NotFoundPage/NotFoundPage.async.tsx';
 import ApplicationsPageAsync from '../pages/ApplicationsPage/ApplicationsPage.async.tsx';
+import ApplicationPageAsync from '../pages/ApplicationPage/ApplicationPage.async.tsx';
+import AboutPageAsync from '../pages/AboutPage/AboutPage.async.tsx';
 
 const AppRoutes = () => (
   <Routes>
@@ -13,7 +14,7 @@ const AppRoutes = () => (
       path="/"
       element={
         <Layout>
-          <div>Start Page</div>
+          <AboutPageAsync />
         </Layout>
       }
     />
@@ -29,21 +30,21 @@ const AppRoutes = () => (
       }
     />
     <Route
-      path="/statuses"
-      element={
-        <PrivateRoute>
-          <Layout>
-            <StatusesPageAsync />
-          </Layout>
-        </PrivateRoute>
-      }
-    />
-    <Route
       path="/applications"
       element={
         <PrivateRoute>
           <Layout>
             <ApplicationsPageAsync />
+          </Layout>
+        </PrivateRoute>
+      }
+    />
+    <Route
+      path="/applications/:id"
+      element={
+        <PrivateRoute>
+          <Layout>
+            <ApplicationPageAsync />
           </Layout>
         </PrivateRoute>
       }

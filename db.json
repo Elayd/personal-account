@@ -269,46 +269,1953 @@
       "userId": "FgMGylD"
     }
   ],
+  "getArticleData": [
+    {
+      "userId": "FgMGylD",
+      "applicationID": 1,
+      "name": "Dmitrii",
+      "secondName": "Sakulin",
+      "phoneNumber": "+31233123131",
+      "address": "Moscow, Okxotniy ryad 4 kv3",
+      "totalPrice": "450",
+      "goodsPrice": "440",
+      "deliveryPrice": "10",
+      "deliveryMethod": "By car",
+      "deliveryData": "12.12.2023",
+      "deliveryCompany": "DHL",
+      "paymentMethod": "Credit Card"
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 2,
+      "name": "Dmitrii",
+      "secondName": "Sakulin",
+      "phoneNumber": "+31233123131",
+      "address": "Voronezh, Lenin Street 25",
+      "totalPrice": "956",
+      "goodsPrice": "940",
+      "deliveryPrice": "16",
+      "deliveryMethod": "By plane",
+      "deliveryData": "28.08.2023",
+      "deliveryCompany": "UPS",
+      "paymentMethod": "PayPal"
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 3,
+      "name": "Dmitrii",
+      "secondName": "Sakulin",
+      "phoneNumber": "+31233123131",
+      "address": "Saint Petersburg, Nevsky Prospekt 15",
+      "totalPrice": "813",
+      "goodsPrice": "800",
+      "deliveryPrice": "13",
+      "deliveryMethod": "By train",
+      "deliveryData": "15.06.2023",
+      "deliveryCompany": "FedEx",
+      "paymentMethod": "Bank Transfer"
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 4,
+      "name": "Dmitrii",
+      "secondName": "Sakulin",
+      "phoneNumber": "+31233123131",
+      "address": "Kazan, Freedom Square 10",
+      "totalPrice": "846",
+      "goodsPrice": "830",
+      "deliveryPrice": "16",
+      "deliveryMethod": "By car",
+      "deliveryData": "03.10.2023",
+      "deliveryCompany": "DHL",
+      "paymentMethod": "Cash on Delivery"
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 5,
+      "name": "Dmitrii",
+      "secondName": "Sakulin",
+      "phoneNumber": "+31233123131",
+      "address": "Novosibirsk, Red Avenue 7",
+      "totalPrice": "689",
+      "goodsPrice": "670",
+      "deliveryPrice": "19",
+      "deliveryMethod": "By plane",
+      "deliveryData": "21.05.2023",
+      "deliveryCompany": "FedEx",
+      "paymentMethod": "Bitcoin"
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 6,
+      "name": "Dmitrii",
+      "secondName": "Sakulin",
+      "phoneNumber": "+31233123131",
+      "address": "Yekaterinburg, Lenin Avenue 32",
+      "totalPrice": "583",
+      "goodsPrice": "560",
+      "deliveryPrice": "23",
+      "deliveryMethod": "By train",
+      "deliveryData": "09.11.2023",
+      "deliveryCompany": "UPS",
+      "paymentMethod": "Google Pay"
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 7,
+      "name": "Dmitrii",
+      "secondName": "Sakulin",
+      "phoneNumber": "+31233123131",
+      "address": "Omsk, Lenin Street 22",
+      "totalPrice": "709",
+      "goodsPrice": "680",
+      "deliveryPrice": "29",
+      "deliveryMethod": "By car",
+      "deliveryData": "17.09.2023",
+      "deliveryCompany": "DHL",
+      "paymentMethod": "Apple Pay"
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 8,
+      "name": "Dmitrii",
+      "secondName": "Sakulin",
+      "phoneNumber": "+31233123131",
+      "address": "Samara, Karl Marx Avenue 20",
+      "totalPrice": "604",
+      "goodsPrice": "570",
+      "deliveryPrice": "34",
+      "deliveryMethod": "By plane",
+      "deliveryData": "04.07.2023",
+      "deliveryCompany": "FedEx",
+      "paymentMethod": "Credit Card"
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 9,
+      "name": "Dmitrii",
+      "secondName": "Sakulin",
+      "phoneNumber": "+31233123131",
+      "address": "Chelyabinsk, Lenin Avenue 18",
+      "totalPrice": "856",
+      "goodsPrice": "830",
+      "deliveryPrice": "26",
+      "deliveryMethod": "By train",
+      "deliveryData": "22.04.2023",
+      "deliveryCompany": "UPS",
+      "paymentMethod": "PayPal"
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 10,
+      "name": "Dmitrii",
+      "secondName": "Sakulin",
+      "phoneNumber": "+31233123131",
+      "address": "Ufa, Pushkin Street 9",
+      "totalPrice": "929",
+      "goodsPrice": "900",
+      "deliveryPrice": "29",
+      "deliveryMethod": "By car",
+      "deliveryData": "10.12.2023",
+      "deliveryCompany": "DHL",
+      "paymentMethod": "Bank Transfer"
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 11,
+      "name": "Dmitrii",
+      "secondName": "Sakulin",
+      "phoneNumber": "+31233123131",
+      "address": "Rostov-on-Don, Budennovsky Avenue 30",
+      "totalPrice": "674",
+      "goodsPrice": "650",
+      "deliveryPrice": "24",
+      "deliveryMethod": "By plane",
+      "deliveryData": "29.08.2023",
+      "deliveryCompany": "FedEx",
+      "paymentMethod": "Cash on Delivery"
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 12,
+      "name": "Dmitrii",
+      "secondName": "Sakulin",
+      "phoneNumber": "+31233123131",
+      "address": "Volgograd, Lenin Avenue 16",
+      "totalPrice": "801",
+      "goodsPrice": "780",
+      "deliveryPrice": "21",
+      "deliveryMethod": "By train",
+      "deliveryData": "16.06.2023",
+      "deliveryCompany": "UPS",
+      "paymentMethod": "Credit Card"
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 13,
+      "name": "Dmitrii",
+      "secondName": "Sakulin",
+      "phoneNumber": "+31233123131",
+      "address": "Krasnoyarsk, Karl Marx Street 12",
+      "totalPrice": "752",
+      "goodsPrice": "730",
+      "deliveryPrice": "22",
+      "deliveryMethod": "By car",
+      "deliveryData": "05.10.2023",
+      "deliveryCompany": "DHL",
+      "paymentMethod": "Bitcoin"
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 14,
+      "name": "Dmitrii",
+      "secondName": "Sakulin",
+      "phoneNumber": "+31233123131",
+      "address": "Saratov, Moscow Highway 8",
+      "totalPrice": "697",
+      "goodsPrice": "670",
+      "deliveryPrice": "27",
+      "deliveryMethod": "By plane",
+      "deliveryData": "22.05.2023",
+      "deliveryCompany": "FedEx",
+      "paymentMethod": "Google Pay"
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 15,
+      "name": "Dmitrii",
+      "secondName": "Sakulin",
+      "phoneNumber": "+31233123131",
+      "address": "Yaroslavl, Kirov Street 14",
+      "totalPrice": "845",
+      "goodsPrice": "820",
+      "deliveryPrice": "25",
+      "deliveryMethod": "By train",
+      "deliveryData": "10.11.2023",
+      "deliveryCompany": "UPS",
+      "paymentMethod": "Apple Pay"
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 16,
+      "name": "Dmitrii",
+      "secondName": "Sakulin",
+      "phoneNumber": "+31233123131",
+      "address": "Vladivostok, Svetlanskaya Street 7",
+      "totalPrice": "609",
+      "goodsPrice": "580",
+      "deliveryPrice": "29",
+      "deliveryMethod": "By car",
+      "deliveryData": "18.09.2023",
+      "deliveryCompany": "DHL",
+      "paymentMethod": "Bank Transfer"
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 17,
+      "name": "Dmitrii",
+      "secondName": "Sakulin",
+      "phoneNumber": "+31233123131",
+      "address": "Irkutsk, Lenin Street 18",
+      "totalPrice": "758",
+      "goodsPrice": "740",
+      "deliveryPrice": "18",
+      "deliveryMethod": "By plane",
+      "deliveryData": "03.06.2023",
+      "deliveryCompany": "FedEx",
+      "paymentMethod": "Credit Card"
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 18,
+      "name": "Dmitrii",
+      "secondName": "Sakulin",
+      "phoneNumber": "+31233123131",
+      "address": "Tyumen, Lenin Street 21",
+      "totalPrice": "697",
+      "goodsPrice": "680",
+      "deliveryPrice": "17",
+      "deliveryMethod": "By train",
+      "deliveryData": "20.11.2023",
+      "deliveryCompany": "UPS",
+      "paymentMethod": "PayPal"
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 19,
+      "name": "Dmitrii",
+      "secondName": "Sakulin",
+      "phoneNumber": "+31233123131",
+      "address": "Tomsk, Lenin Avenue 10",
+      "totalPrice": "831",
+      "goodsPrice": "810",
+      "deliveryPrice": "21",
+      "deliveryMethod": "By car",
+      "deliveryData": "08.10.2023",
+      "deliveryCompany": "DHL",
+      "paymentMethod": "Bitcoin"
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 20,
+      "name": "Dmitrii",
+      "secondName": "Sakulin",
+      "phoneNumber": "+31233123131",
+      "address": "Kemerovo, Lenin Street 6",
+      "totalPrice": "954",
+      "goodsPrice": "940",
+      "deliveryPrice": "14",
+      "deliveryMethod": "By plane",
+      "deliveryData": "25.07.2023",
+      "deliveryCompany": "FedEx",
+      "paymentMethod": "Cash on Delivery"
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 21,
+      "name": "Dmitrii",
+      "secondName": "Sakulin",
+      "phoneNumber": "+31233123131",
+      "address": "Nizhny Novgorod, Lenin Square 3",
+      "totalPrice": "813",
+      "goodsPrice": "800",
+      "deliveryPrice": "13",
+      "deliveryMethod": "By train",
+      "deliveryData": "11.12.2023",
+      "deliveryCompany": "UPS",
+      "paymentMethod": "Google Pay"
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 22,
+      "name": "Dmitrii",
+      "secondName": "Sakulin",
+      "phoneNumber": "+31233123131",
+      "address": "Novokuznetsk, Lenin Avenue 29",
+      "totalPrice": "782",
+      "goodsPrice": "770",
+      "deliveryPrice": "12",
+      "deliveryMethod": "By car",
+      "deliveryData": "29.09.2023",
+      "deliveryCompany": "DHL",
+      "paymentMethod": "Apple Pay"
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 23,
+      "name": "Dmitrii",
+      "secondName": "Sakulin",
+      "phoneNumber": "+31233123131",
+      "address": "Barnaul, Lenin Avenue 20",
+      "totalPrice": "699",
+      "goodsPrice": "680",
+      "deliveryPrice": "19",
+      "deliveryMethod": "By plane",
+      "deliveryData": "16.06.2023",
+      "deliveryCompany": "FedEx",
+      "paymentMethod": "Credit Card"
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 24,
+      "name": "Dmitrii",
+      "secondName": "Sakulin",
+      "phoneNumber": "+31233123131",
+      "address": "Khabarovsk, Lenin Street 15",
+      "totalPrice": "705",
+      "goodsPrice": "680",
+      "deliveryPrice": "25",
+      "deliveryMethod": "By train",
+      "deliveryData": "05.11.2023",
+      "deliveryCompany": "UPS",
+      "paymentMethod": "PayPal"
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 25,
+      "name": "Dmitrii",
+      "secondName": "Sakulin",
+      "phoneNumber": "+31233123131",
+      "address": "Orenburg, Lenin Avenue 7",
+      "totalPrice": "928",
+      "goodsPrice": "900",
+      "deliveryPrice": "28",
+      "deliveryMethod": "By car",
+      "deliveryData": "23.07.2023",
+      "deliveryCompany": "DHL",
+      "paymentMethod": "Bitcoin"
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 26,
+      "name": "Dmitrii",
+      "secondName": "Sakulin",
+      "phoneNumber": "+31233123131",
+      "address": "Kirov, Lenin Avenue 32",
+      "totalPrice": "651",
+      "goodsPrice": "630",
+      "deliveryPrice": "21",
+      "deliveryMethod": "By plane",
+      "deliveryData": "10.05.2023",
+      "deliveryCompany": "FedEx",
+      "paymentMethod": "Credit Card"
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 27,
+      "name": "Dmitrii",
+      "secondName": "Sakulin",
+      "phoneNumber": "+31233123131",
+      "address": "Tula, Lenin Avenue 4",
+      "totalPrice": "756",
+      "goodsPrice": "730",
+      "deliveryPrice": "26",
+      "deliveryMethod": "By train",
+      "deliveryData": "29.10.2023",
+      "deliveryCompany": "UPS",
+      "paymentMethod": "PayPal"
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 28,
+      "name": "Dmitrii",
+      "secondName": "Sakulin",
+      "phoneNumber": "+31233123131",
+      "address": "Kursk, Lenin Square 9",
+      "totalPrice": "612",
+      "goodsPrice": "590",
+      "deliveryPrice": "22",
+      "deliveryMethod": "By car",
+      "deliveryData": "18.06.2023",
+      "deliveryCompany": "DHL",
+      "paymentMethod": "Bitcoin"
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 29,
+      "name": "Dmitrii",
+      "secondName": "Sakulin",
+      "phoneNumber": "+31233123131",
+      "address": "Arkhangelsk, Lenin Avenue 5",
+      "totalPrice": "815",
+      "goodsPrice": "790",
+      "deliveryPrice": "25",
+      "deliveryMethod": "By plane",
+      "deliveryData": "07.04.2023",
+      "deliveryCompany": "FedEx",
+      "paymentMethod": "Credit Card"
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 30,
+      "name": "Dmitrii",
+      "secondName": "Sakulin",
+      "phoneNumber": "+31233123131",
+      "address": "Tambov, Lenin Avenue 14",
+      "totalPrice": "728",
+      "goodsPrice": "700",
+      "deliveryPrice": "28",
+      "deliveryMethod": "By train",
+      "deliveryData": "24.11.2023",
+      "deliveryCompany": "UPS",
+      "paymentMethod": "Bank Transfer"
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 31,
+      "name": "Dmitrii",
+      "secondName": "Sakulin",
+      "phoneNumber": "+31233123131",
+      "address": "Vladimir, Lenin Avenue 10",
+      "totalPrice": "673",
+      "goodsPrice": "650",
+      "deliveryPrice": "23",
+      "deliveryMethod": "By car",
+      "deliveryData": "12.06.2023",
+      "deliveryCompany": "DHL",
+      "paymentMethod": "Google Pay"
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 32,
+      "name": "Dmitrii",
+      "secondName": "Sakulin",
+      "phoneNumber": "+31233123131",
+      "address": "Ryazan, Lenin Square 2",
+      "totalPrice": "749",
+      "goodsPrice": "730",
+      "deliveryPrice": "19",
+      "deliveryMethod": "By plane",
+      "deliveryData": "30.03.2023",
+      "deliveryCompany": "FedEx",
+      "paymentMethod": "Credit Card"
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 33,
+      "name": "Dmitrii",
+      "secondName": "Sakulin",
+      "phoneNumber": "+31233123131",
+      "address": "Smolensk, Lenin Street 11",
+      "totalPrice": "803",
+      "goodsPrice": "780",
+      "deliveryPrice": "23",
+      "deliveryMethod": "By train",
+      "deliveryData": "17.09.2023",
+      "deliveryCompany": "UPS",
+      "paymentMethod": "Apple Pay"
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 34,
+      "name": "Dmitrii",
+      "secondName": "Sakulin",
+      "phoneNumber": "+31233123131",
+      "address": "Yoshkar-Ola, Lenin Avenue 8",
+      "totalPrice": "738",
+      "goodsPrice": "720",
+      "deliveryPrice": "18",
+      "deliveryMethod": "By car",
+      "deliveryData": "05.12.2023",
+      "deliveryCompany": "DHL",
+      "paymentMethod": "Bank Transfer"
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 35,
+      "name": "Dmitrii",
+      "secondName": "Sakulin",
+      "phoneNumber": "+31233123131",
+      "address": "Grozny, Lenin Avenue 14",
+      "totalPrice": "854",
+      "goodsPrice": "840",
+      "deliveryPrice": "14",
+      "deliveryMethod": "By plane",
+      "deliveryData": "23.07.2023",
+      "deliveryCompany": "FedEx",
+      "paymentMethod": "Bitcoin"
+    }
+  ],
+  "getInformationData": [
+    {
+      "userId": "FgMGylD",
+      "applicationID": 1,
+      "goods": [
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Whey Isolate",
+          "price": 897
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins A",
+          "price": 105
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins B",
+          "price": 874
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamin C",
+          "price": 301
+        }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 2,
+      "goods": [
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Whey Isolate",
+          "price": 573
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins A",
+          "price": 850
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins B",
+          "price": 713
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamin C",
+          "price": 648
+        }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 3,
+      "goods": [
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Whey Isolate",
+          "price": 272
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins A",
+          "price": 496
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins B",
+          "price": 832
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamin C",
+          "price": 704
+        }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 4,
+      "goods": [
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Whey Isolate",
+          "price": 437
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins A",
+          "price": 218
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins B",
+          "price": 342
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamin C",
+          "price": 890
+        }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 5,
+      "goods": [
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Whey Isolate",
+          "price": 321
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins A",
+          "price": 725
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins B",
+          "price": 108
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamin C",
+          "price": 506
+        }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 6,
+      "goods": [
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Whey Isolate",
+          "price": 843
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins A",
+          "price": 958
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins B",
+          "price": 755
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamin C",
+          "price": 677
+        }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 7,
+      "goods": [
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Whey Isolate",
+          "price": 620
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins A",
+          "price": 457
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins B",
+          "price": 149
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamin C",
+          "price": 284
+        }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 8,
+      "goods": [
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Whey Isolate",
+          "price": 736
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins A",
+          "price": 672
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins B",
+          "price": 546
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamin C",
+          "price": 992
+        }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 9,
+      "goods": [
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Whey Isolate",
+          "price": 467
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins A",
+          "price": 783
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins B",
+          "price": 392
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamin C",
+          "price": 154
+        }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 10,
+      "goods": [
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Whey Isolate",
+          "price": 812
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins A",
+          "price": 348
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins B",
+          "price": 984
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamin C",
+          "price": 872
+        }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 11,
+      "goods": [
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Whey Isolate",
+          "price": 578
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins A",
+          "price": 741
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins B",
+          "price": 145
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamin C",
+          "price": 892
+        }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 12,
+      "goods": [
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Whey Isolate",
+          "price": 496
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins A",
+          "price": 263
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins B",
+          "price": 379
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamin C",
+          "price": 910
+        }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 13,
+      "goods": [
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Whey Isolate",
+          "price": 264
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins A",
+          "price": 108
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins B",
+          "price": 934
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamin C",
+          "price": 721
+        }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 14,
+      "goods": [
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Whey Isolate",
+          "price": 139
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins A",
+          "price": 850
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins B",
+          "price": 476
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamin C",
+          "price": 362
+        }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 15,
+      "goods": [
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Whey Isolate",
+          "price": 975
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins A",
+          "price": 209
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins B",
+          "price": 725
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamin C",
+          "price": 421
+        }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 16,
+      "goods": [
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Whey Isolate",
+          "price": 628
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins A",
+          "price": 857
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins B",
+          "price": 143
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamin C",
+          "price": 902
+        }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 17,
+      "goods": [
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Whey Isolate",
+          "price": 735
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins A",
+          "price": 648
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins B",
+          "price": 972
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamin C",
+          "price": 546
+        }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 18,
+      "goods": [
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Whey Isolate",
+          "price": 184
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins A",
+          "price": 293
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins B",
+          "price": 785
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamin C",
+          "price": 614
+        }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 19,
+      "goods": [
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Whey Isolate",
+          "price": 321
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins A",
+          "price": 879
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins B",
+          "price": 209
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamin C",
+          "price": 537
+        }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 20,
+      "goods": [
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Whey Isolate",
+          "price": 741
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins A",
+          "price": 625
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins B",
+          "price": 398
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamin C",
+          "price": 940
+        }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 21,
+      "goods": [
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Whey Isolate",
+          "price": 812
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins A",
+          "price": 530
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins B",
+          "price": 178
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamin C",
+          "price": 937
+        }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 22,
+      "goods": [
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Whey Isolate",
+          "price": 497
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins A",
+          "price": 631
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins B",
+          "price": 924
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamin C",
+          "price": 305
+        }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 23,
+      "goods": [
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Whey Isolate",
+          "price": 853
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins A",
+          "price": 759
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins B",
+          "price": 284
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamin C",
+          "price": 672
+        }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 24,
+      "goods": [
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Whey Isolate",
+          "price": 965
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins A",
+          "price": 478
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins B",
+          "price": 572
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamin C",
+          "price": 819
+        }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 25,
+      "goods": [
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Whey Isolate",
+          "price": 394
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins A",
+          "price": 698
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins B",
+          "price": 874
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamin C",
+          "price": 260
+        }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 26,
+      "goods": [
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Whey Isolate",
+          "price": 159
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins A",
+          "price": 548
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins B",
+          "price": 316
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamin C",
+          "price": 498
+        }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 27,
+      "goods": [
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Whey Isolate",
+          "price": 735
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins A",
+          "price": 926
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins B",
+          "price": 347
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamin C",
+          "price": 509
+        }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 28,
+      "goods": [
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Whey Isolate",
+          "price": 247
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins A",
+          "price": 743
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins B",
+          "price": 658
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamin C",
+          "price": 926
+        }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 29,
+      "goods": [
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Whey Isolate",
+          "price": 845
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins A",
+          "price": 735
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins B",
+          "price": 172
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamin C",
+          "price": 249
+        }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 30,
+      "goods": [
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Whey Isolate",
+          "price": 702
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins A",
+          "price": 926
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins B",
+          "price": 527
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamin C",
+          "price": 842
+        }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 31,
+      "goods": [
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Whey Isolate",
+          "price": 284
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins A",
+          "price": 913
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins B",
+          "price": 631
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamin C",
+          "price": 748
+        }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 32,
+      "goods": [
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Whey Isolate",
+          "price": 902
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins A",
+          "price": 348
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins B",
+          "price": 598
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamin C",
+          "price": 713
+        }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 33,
+      "goods": [
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Whey Isolate",
+          "price": 156
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins A",
+          "price": 829
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins B",
+          "price": 497
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamin C",
+          "price": 382
+        }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 34,
+      "goods": [
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Whey Isolate",
+          "price": 679
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins A",
+          "price": 735
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins B",
+          "price": 843
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamin C",
+          "price": 421
+        }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 35,
+      "goods": [
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Whey Isolate",
+          "price": 248
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins A",
+          "price": 967
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamins B",
+          "price": 756
+        },
+        {
+          "imgUrl": "https://i.imgur.com/StiM9Ji.jpg",
+          "productName": "Vitamin C",
+          "price": 591
+        }
+      ]
+    }
+  ],
   "statuses": [
     {
-      "id": "FgMGylD",
+      "userId": "FgMGylD",
+      "applicationID": 1,
       "statuses": [
-        {
-          "color": "#D62718",
-          "text": "Security System Check"
-        },
-        {
-          "color": "#429026",
-          "text": "Informational System Check"
-        },
-        {
-          "color": "#D62718",
-          "text": "Network Connectivity Audit"
-        },
-        {
-          "color": "#429026",
-          "text": "Data Integrity Verification"
-        },
-        {
-          "color": "#429026",
-          "text": "Performance Analytics Assessment"
-        },
-        {
-          "color": "#B7840E",
-          "text": "User Authentication Review"
-        },
-        {
-          "color": "#D62718",
-          "text": "System Health Diagnostics"
-        },
-        {
-          "color": "#D62718",
-          "text": "Infrastructure Security Audi"
-        },
-        {
-          "color": "#B7840E",
-          "text": "Compliance Status Evaluation"
-        }
+        { "text": "Order Placed", "color": "#808080" },
+        { "text": "Processing", "color": "#808080" },
+        { "text": "In Transit", "color": "#808080" },
+        { "text": "Arrived at Sorting Facility", "color": "#808080" },
+        { "text": "Sorting Complete", "color": "#808080" },
+        { "text": "Out for Delivery", "color": "#808080" },
+        { "text": "Delayed", "color": "#808080" },
+        { "text": "Failed Delivery Attempt", "color": "#808080" },
+        { "text": "Arrived at Destination", "color": "#808080" },
+        { "text": "Delivered", "color": "#429026" }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 2,
+      "statuses": [
+        { "text": "Order Placed", "color": "#808080" },
+        { "text": "Processing", "color": "#808080" },
+        { "text": "In Transit", "color": "#808080" },
+        { "text": "Arrived at Sorting Facility", "color": "#808080" },
+        { "text": "Sorting Complete", "color": "#808080" },
+        { "text": "Out for Delivery", "color": "#808080" },
+        { "text": "Delayed", "color": "#808080" },
+        { "text": "Failed Delivery Attempt", "color": "#808080" },
+        { "text": "Arrived at Destination", "color": "#808080" },
+        { "text": "Delivered", "color": "#429026" }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 3,
+      "statuses": [
+        { "text": "Order Placed", "color": "#808080" },
+        { "text": "Processing", "color": "#808080" },
+        { "text": "In Transit", "color": "#808080" },
+        { "text": "Arrived at Sorting Facility", "color": "#808080" },
+        { "text": "Sorting Complete", "color": "#808080" },
+        { "text": "Out for Delivery", "color": "#808080" },
+        { "text": "Delayed", "color": "#808080" },
+        { "text": "Failed Delivery Attempt", "color": "#808080" },
+        { "text": "Arrived at Destination", "color": "#808080" },
+        { "text": "Delivered", "color": "#429026" }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 4,
+      "statuses": [
+        { "text": "Order Placed", "color": "#808080" },
+        { "text": "Processing", "color": "#808080" },
+        { "text": "In Transit", "color": "#808080" },
+        { "text": "Arrived at Sorting Facility", "color": "#808080" },
+        { "text": "Sorting Complete", "color": "#808080" },
+        { "text": "Out for Delivery", "color": "#808080" }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 5,
+      "statuses": [
+        { "text": "Order Placed", "color": "#808080" },
+        { "text": "Processing", "color": "#808080" },
+        { "text": "In Transit", "color": "#808080" },
+        { "text": "Arrived at Sorting Facility", "color": "#808080" },
+        { "text": "Sorting Complete", "color": "#808080" },
+        { "text": "Out for Delivery", "color": "#808080" },
+        { "text": "Delayed", "color": "#808080" },
+        { "text": "Failed Delivery Attempt", "color": "#808080" }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 6,
+      "statuses": [
+        { "text": "Order Placed", "color": "#808080" },
+        { "text": "Processing", "color": "#808080" },
+        { "text": "In Transit", "color": "#808080" },
+        { "text": "Arrived at Sorting Facility", "color": "#808080" },
+        { "text": "Sorting Complete", "color": "#808080" },
+        { "text": "Out for Delivery", "color": "#808080" },
+        { "text": "Delayed", "color": "#808080" },
+        { "text": "Failed Delivery Attempt", "color": "#808080" },
+        { "text": "Arrived at Destination", "color": "#808080" },
+        { "text": "Delivered", "color": "#429026" }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 7,
+      "statuses": [
+        { "text": "Order Placed", "color": "#808080" },
+        { "text": "Processing", "color": "#808080" },
+        { "text": "In Transit", "color": "#808080" },
+        { "text": "Arrived at Sorting Facility", "color": "#808080" },
+        { "text": "Sorting Complete", "color": "#808080" },
+        { "text": "Out for Delivery", "color": "#808080" },
+        { "text": "Delayed", "color": "#808080" },
+        { "text": "Failed Delivery Attempt", "color": "#808080" },
+        { "text": "Arrived at Destination", "color": "#808080" },
+        { "text": "Delivered", "color": "#429026" }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 8,
+      "statuses": [
+        { "text": "Order Placed", "color": "#808080" },
+        { "text": "Processing", "color": "#808080" },
+        { "text": "In Transit", "color": "#808080" },
+        { "text": "Arrived at Sorting Facility", "color": "#808080" },
+        { "text": "Sorting Complete", "color": "#808080" },
+        { "text": "Out for Delivery", "color": "#808080" },
+        { "text": "Delayed", "color": "#808080" },
+        { "text": "Failed Delivery Attempt", "color": "#808080" }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 9,
+      "statuses": [
+        { "text": "Order Placed", "color": "#808080" },
+        { "text": "Processing", "color": "#808080" },
+        { "text": "In Transit", "color": "#808080" },
+        { "text": "Arrived at Sorting Facility", "color": "#808080" },
+        { "text": "Sorting Complete", "color": "#808080" },
+        { "text": "Out for Delivery", "color": "#808080" },
+        { "text": "Delayed", "color": "#808080" },
+        { "text": "Failed Delivery Attempt", "color": "#808080" }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 10,
+      "statuses": [
+        { "text": "Order Placed", "color": "#808080" },
+        { "text": "Processing", "color": "#808080" },
+        { "text": "In Transit", "color": "#808080" },
+        { "text": "Arrived at Sorting Facility", "color": "#808080" },
+        { "text": "Sorting Complete", "color": "#808080" },
+        { "text": "Out for Delivery", "color": "#808080" },
+        { "text": "Delayed", "color": "#808080" },
+        { "text": "Failed Delivery Attempt", "color": "#808080" },
+        { "text": "Arrived at Destination", "color": "#808080" },
+        { "text": "Delivered", "color": "#429026" }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 11,
+      "statuses": [
+        { "text": "Order Placed", "color": "#808080" },
+        { "text": "Processing", "color": "#808080" },
+        { "text": "In Transit", "color": "#808080" },
+        { "text": "Arrived at Sorting Facility", "color": "#808080" },
+        { "text": "Sorting Complete", "color": "#808080" },
+        { "text": "Out for Delivery", "color": "#808080" },
+        { "text": "Delayed", "color": "#808080" },
+        { "text": "Failed Delivery Attempt", "color": "#808080" }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 12,
+      "statuses": [
+        { "text": "Order Placed", "color": "#808080" },
+        { "text": "Processing", "color": "#808080" },
+        { "text": "In Transit", "color": "#808080" },
+        { "text": "Arrived at Sorting Facility", "color": "#808080" },
+        { "text": "Sorting Complete", "color": "#808080" },
+        { "text": "Out for Delivery", "color": "#808080" },
+        { "text": "Delayed", "color": "#808080" },
+        { "text": "Failed Delivery Attempt", "color": "#808080" },
+        { "text": "Arrived at Destination", "color": "#808080" },
+        { "text": "Delivered", "color": "#429026" }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 13,
+      "statuses": [
+        { "text": "Order Placed", "color": "#808080" },
+        { "text": "Processing", "color": "#808080" },
+        { "text": "In Transit", "color": "#808080" },
+        { "text": "Arrived at Sorting Facility", "color": "#808080" },
+        { "text": "Sorting Complete", "color": "#808080" },
+        { "text": "Out for Delivery", "color": "#808080" },
+        { "text": "Delayed", "color": "#808080" },
+        { "text": "Failed Delivery Attempt", "color": "#808080" },
+        { "text": "Arrived at Destination", "color": "#808080" },
+        { "text": "Delivered", "color": "#429026" }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 14,
+      "statuses": [
+        { "text": "Order Placed", "color": "#808080" },
+        { "text": "Processing", "color": "#808080" },
+        { "text": "In Transit", "color": "#808080" },
+        { "text": "Arrived at Sorting Facility", "color": "#808080" },
+        { "text": "Sorting Complete", "color": "#808080" },
+        { "text": "Out for Delivery", "color": "#808080" },
+        { "text": "Delayed", "color": "#808080" },
+        { "text": "Failed Delivery Attempt", "color": "#808080" }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 15,
+      "statuses": [
+        { "text": "Order Placed", "color": "#808080" },
+        { "text": "Processing", "color": "#808080" },
+        { "text": "In Transit", "color": "#808080" },
+        { "text": "Arrived at Sorting Facility", "color": "#808080" },
+        { "text": "Sorting Complete", "color": "#808080" },
+        { "text": "Out for Delivery", "color": "#808080" },
+        { "text": "Delayed", "color": "#808080" },
+        { "text": "Failed Delivery Attempt", "color": "#808080" }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 16,
+      "statuses": [
+        { "text": "Order Placed", "color": "#808080" },
+        { "text": "Processing", "color": "#808080" },
+        { "text": "In Transit", "color": "#808080" },
+        { "text": "Arrived at Sorting Facility", "color": "#808080" },
+        { "text": "Sorting Complete", "color": "#808080" },
+        { "text": "Out for Delivery", "color": "#808080" },
+        { "text": "Delayed", "color": "#808080" },
+        { "text": "Failed Delivery Attempt", "color": "#808080" },
+        { "text": "Arrived at Destination", "color": "#808080" },
+        { "text": "Delivered", "color": "#429026" }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 17,
+      "statuses": [
+        { "text": "Order Placed", "color": "#808080" },
+        { "text": "Processing", "color": "#808080" },
+        { "text": "In Transit", "color": "#808080" },
+        { "text": "Arrived at Sorting Facility", "color": "#808080" },
+        { "text": "Sorting Complete", "color": "#808080" }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 18,
+      "statuses": [
+        { "text": "Order Placed", "color": "#808080" },
+        { "text": "Processing", "color": "#808080" },
+        { "text": "In Transit", "color": "#808080" },
+        { "text": "Arrived at Sorting Facility", "color": "#808080" },
+        { "text": "Sorting Complete", "color": "#808080" },
+        { "text": "Out for Delivery", "color": "#808080" },
+        { "text": "Delayed", "color": "#808080" },
+        { "text": "Failed Delivery Attempt", "color": "#808080" },
+        { "text": "Arrived at Destination", "color": "#808080" },
+        { "text": "Delivered", "color": "#429026" }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 19,
+      "statuses": [
+        { "text": "Order Placed", "color": "#808080" },
+        { "text": "Processing", "color": "#808080" },
+        { "text": "In Transit", "color": "#808080" },
+        { "text": "Arrived at Sorting Facility", "color": "#808080" },
+        { "text": "Sorting Complete", "color": "#808080" },
+        { "text": "Out for Delivery", "color": "#808080" },
+        { "text": "Delayed", "color": "#808080" },
+        { "text": "Failed Delivery Attempt", "color": "#808080" },
+        { "text": "Arrived at Destination", "color": "#808080" },
+        { "text": "Delivered", "color": "#429026" }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 20,
+      "statuses": [
+        { "text": "Order Placed", "color": "#808080" },
+        { "text": "Processing", "color": "#808080" },
+        { "text": "In Transit", "color": "#808080" },
+        { "text": "Arrived at Sorting Facility", "color": "#808080" }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 21,
+      "statuses": [
+        { "text": "Order Placed", "color": "#808080" },
+        { "text": "Processing", "color": "#808080" },
+        { "text": "In Transit", "color": "#808080" },
+        { "text": "Arrived at Sorting Facility", "color": "#808080" },
+        { "text": "Sorting Complete", "color": "#808080" },
+        { "text": "Out for Delivery", "color": "#808080" },
+        { "text": "Delayed", "color": "#808080" }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 22,
+      "statuses": [
+        { "text": "Order Placed", "color": "#808080" },
+        { "text": "Processing", "color": "#808080" },
+        { "text": "In Transit", "color": "#808080" },
+        { "text": "Arrived at Sorting Facility", "color": "#808080" },
+        { "text": "Sorting Complete", "color": "#808080" },
+        { "text": "Out for Delivery", "color": "#808080" },
+        { "text": "Delayed", "color": "#808080" },
+        { "text": "Failed Delivery Attempt", "color": "#808080" },
+        { "text": "Arrived at Destination", "color": "#808080" },
+        { "text": "Delivered", "color": "#429026" }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 23,
+      "statuses": [
+        { "text": "Order Placed", "color": "#808080" },
+        { "text": "Processing", "color": "#808080" },
+        { "text": "In Transit", "color": "#808080" },
+        { "text": "Arrived at Sorting Facility", "color": "#808080" },
+        { "text": "Sorting Complete", "color": "#808080" },
+        { "text": "Out for Delivery", "color": "#808080" },
+        { "text": "Delayed", "color": "#808080" },
+        { "text": "Failed Delivery Attempt", "color": "#808080" },
+        { "text": "Arrived at Destination", "color": "#808080" }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 24,
+      "statuses": [
+        { "text": "Order Placed", "color": "#808080" },
+        { "text": "Processing", "color": "#808080" },
+        { "text": "In Transit", "color": "#808080" },
+        { "text": "Arrived at Sorting Facility", "color": "#808080" },
+        { "text": "Sorting Complete", "color": "#808080" },
+        { "text": "Out for Delivery", "color": "#808080" },
+        { "text": "Delayed", "color": "#808080" },
+        { "text": "Failed Delivery Attempt", "color": "#808080" },
+        { "text": "Arrived at Destination", "color": "#808080" },
+        { "text": "Delivered", "color": "#429026" }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 25,
+      "statuses": [
+        { "text": "Order Placed", "color": "#808080" },
+        { "text": "Processing", "color": "#808080" },
+        { "text": "In Transit", "color": "#808080" },
+        { "text": "Arrived at Sorting Facility", "color": "#808080" },
+        { "text": "Sorting Complete", "color": "#808080" },
+        { "text": "Out for Delivery", "color": "#808080" },
+        { "text": "Delayed", "color": "#808080" },
+        { "text": "Failed Delivery Attempt", "color": "#808080" },
+        { "text": "Arrived at Destination", "color": "#808080" },
+        { "text": "Delivered", "color": "#429026" }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 26,
+      "statuses": [
+        { "text": "Order Placed", "color": "#808080" },
+        { "text": "Processing", "color": "#808080" },
+        { "text": "In Transit", "color": "#808080" },
+        { "text": "Arrived at Sorting Facility", "color": "#808080" },
+        { "text": "Sorting Complete", "color": "#808080" },
+        { "text": "Out for Delivery", "color": "#808080" },
+        { "text": "Delayed", "color": "#808080" },
+        { "text": "Failed Delivery Attempt", "color": "#808080" },
+        { "text": "Arrived at Destination", "color": "#808080" },
+        { "text": "Delivered", "color": "#429026" }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 27,
+      "statuses": [
+        { "text": "Order Placed", "color": "#808080" },
+        { "text": "Processing", "color": "#808080" },
+        { "text": "In Transit", "color": "#808080" },
+        { "text": "Arrived at Sorting Facility", "color": "#808080" },
+        { "text": "Sorting Complete", "color": "#808080" },
+        { "text": "Out for Delivery", "color": "#808080" }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 28,
+      "statuses": [
+        { "text": "Order Placed", "color": "#808080" },
+        { "text": "Processing", "color": "#808080" },
+        { "text": "In Transit", "color": "#808080" },
+        { "text": "Arrived at Sorting Facility", "color": "#808080" },
+        { "text": "Sorting Complete", "color": "#808080" }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 29,
+      "statuses": [
+        { "text": "Order Placed", "color": "#808080" },
+        { "text": "Processing", "color": "#808080" },
+        { "text": "In Transit", "color": "#808080" },
+        { "text": "Arrived at Sorting Facility", "color": "#808080" },
+        { "text": "Sorting Complete", "color": "#808080" },
+        { "text": "Out for Delivery", "color": "#808080" },
+        { "text": "Delayed", "color": "#808080" },
+        { "text": "Failed Delivery Attempt", "color": "#808080" },
+        { "text": "Arrived at Destination", "color": "#808080" },
+        { "text": "Delivered", "color": "#429026" }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 30,
+      "statuses": [
+        { "text": "Order Placed", "color": "#808080" },
+        { "text": "Processing", "color": "#808080" },
+        { "text": "In Transit", "color": "#808080" },
+        { "text": "Arrived at Sorting Facility", "color": "#808080" },
+        { "text": "Sorting Complete", "color": "#808080" },
+        { "text": "Out for Delivery", "color": "#808080" },
+        { "text": "Delayed", "color": "#808080" },
+        { "text": "Failed Delivery Attempt", "color": "#808080" }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 31,
+      "statuses": [
+        { "text": "Order Placed", "color": "#808080" },
+        { "text": "Processing", "color": "#808080" },
+        { "text": "In Transit", "color": "#808080" },
+        { "text": "Arrived at Sorting Facility", "color": "#808080" },
+        { "text": "Sorting Complete", "color": "#808080" },
+        { "text": "Out for Delivery", "color": "#808080" },
+        { "text": "Delayed", "color": "#808080" },
+        { "text": "Failed Delivery Attempt", "color": "#808080" }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 32,
+      "statuses": [
+        { "text": "Order Placed", "color": "#808080" },
+        { "text": "Processing", "color": "#808080" },
+        { "text": "In Transit", "color": "#808080" },
+        { "text": "Arrived at Sorting Facility", "color": "#808080" },
+        { "text": "Sorting Complete", "color": "#808080" },
+        { "text": "Out for Delivery", "color": "#808080" },
+        { "text": "Delayed", "color": "#808080" },
+        { "text": "Failed Delivery Attempt", "color": "#808080" },
+        { "text": "Arrived at Destination", "color": "#808080" },
+        { "text": "Delivered", "color": "#429026" }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 33,
+      "statuses": [
+        { "text": "Order Placed", "color": "#808080" },
+        { "text": "Processing", "color": "#808080" },
+        { "text": "In Transit", "color": "#808080" },
+        { "text": "Arrived at Sorting Facility", "color": "#808080" },
+        { "text": "Sorting Complete", "color": "#808080" },
+        { "text": "Out for Delivery", "color": "#808080" }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 34,
+      "statuses": [
+        { "text": "Order Placed", "color": "#808080" },
+        { "text": "Processing", "color": "#808080" },
+        { "text": "In Transit", "color": "#808080" },
+        { "text": "Arrived at Sorting Facility", "color": "#808080" },
+        { "text": "Sorting Complete", "color": "#808080" },
+        { "text": "Out for Delivery", "color": "#808080" },
+        { "text": "Delayed", "color": "#808080" }
+      ]
+    },
+    {
+      "userId": "FgMGylD",
+      "applicationID": 35,
+      "statuses": [
+        { "text": "Order Placed", "color": "#808080" },
+        { "text": "Processing", "color": "#808080" },
+        { "text": "In Transit", "color": "#808080" },
+        { "text": "Arrived at Sorting Facility", "color": "#808080" },
+        { "text": "Sorting Complete", "color": "#808080" },
+        { "text": "Out for Delivery", "color": "#808080" },
+        { "text": "Delayed", "color": "#808080" },
+        { "text": "Failed Delivery Attempt", "color": "#808080" },
+        { "text": "Arrived at Destination", "color": "#808080" },
+        { "text": "Delivered", "color": "#429026" }
       ]
     }
   ]
