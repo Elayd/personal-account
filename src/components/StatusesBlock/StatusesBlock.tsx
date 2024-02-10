@@ -13,8 +13,8 @@ const StatusesBlock = memo(() => {
 
       {statuses?.map((status, index) => {
         return (
-          <div className={'flex flex-col items-center mx-10'}>
-            <StatusBadge key={index} color={status.color} text={status.text} />
+          <div key={index} className={'flex flex-col items-center mx-10'}>
+            <StatusBadge color={status.color} text={status.text} />
             {index + 1 < statuses?.length && <div className={'mt-2 text-2xl'}>↓</div>}
           </div>
         );
